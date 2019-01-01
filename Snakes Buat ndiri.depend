@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1536481777 source:g:\@@@@@@kuliah\games\snakes buat ndiri\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1536481777 source:d:\@@@@@@kuliah\games\snakes buat ndiri\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
