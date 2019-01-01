@@ -1,6 +1,6 @@
 /*
     Title : Simple Snakes Games
-    project name: Snakes bikin ndiri
+    project name: Snakes buat ndiri
     Created by: Raindy Wicaksana H
 */
 
